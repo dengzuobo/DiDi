@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         print("kkk")
         print("version2")
     }
+    
+    override func didReceiveMemoryWarning() {
+        super.didReceiveMemoryWarning()
+    }
 
 
 }
